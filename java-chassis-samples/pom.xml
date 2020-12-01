@@ -33,6 +33,7 @@
   </properties>
 
   <modules>
+    <!--
     <module>bmi</module>
     <module>codefirst-sample</module>
     <module>custom-handler-sample</module>
@@ -46,7 +47,9 @@
     <module>config-apollo-sample</module>
     <module>use-log4j2-sample</module>
     <module>local-service-registry</module>
-    <module>trust-sample</module>
+    <module>trust-sample</module> 
+    -->
+    <module>springmvc-sample</module>
  </modules>
 
   <dependencyManagement>
