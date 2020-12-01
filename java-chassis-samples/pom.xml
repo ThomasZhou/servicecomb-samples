@@ -49,7 +49,10 @@
     <module>local-service-registry</module>
     <module>trust-sample</module> 
     -->
+    <module>common-schema</module>
     <module>springmvc-sample</module>
+    <module>metrics-extend-healthcheck</module>
+    <module>local-service-registry</module>
  </modules>
 
   <dependencyManagement>
