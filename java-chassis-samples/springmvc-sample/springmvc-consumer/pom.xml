@@ -91,8 +91,6 @@
         </executions>
         <configuration>
           <repository>swr.cn-east-3.myhuaweicloud.com/zhoutong/${project.artifactId}</repository>
-          <username>cn-east-3@DVHTNHDYWZ0FEGMPXY33</username>
-          <password>a5276a98f986601c453490613518737e0cb94567863b9948b0f9ea4a20136c57</password>
           <googleContainerRegistryEnabled>false</googleContainerRegistryEnabled>
           <tag>${project.version}</tag>
           <buildArgs>
